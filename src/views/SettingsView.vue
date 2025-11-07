@@ -53,62 +53,7 @@
     <!-- ===== Main Content Section ===== -->
     <main class="max-w-4xl mx-auto px-4 py-8 space-y-6">
       
-      <!-- ===== SECTION 1: Sound Settings ===== -->
-      <!--
-        Sound effects toggle
-        - Enable/disable sound effects
-        - Saves preference to localStorage
-        - Shows current state clearly
-      -->
-      <div class="bg-white rounded-xl shadow-2xl p-6">
-        <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-          <i class="fas fa-volume-up text-gray-600"></i>
-          Sound Effects
-        </h2>
-        
-        <div class="flex items-center justify-between">
-          <div class="flex-1">
-            <p class="text-gray-700 font-medium mb-1">
-              Enable Sound Effects
-            </p>
-            <p class="text-sm text-gray-500">
-              Play sounds for correct answers, wrong answers, and time-up alerts
-            </p>
-          </div>
-          
-          <!-- Toggle Switch -->
-          <button
-            @click="toggleSoundEffects"
-            :class="[
-              'relative inline-flex items-center rounded-full transition-colors duration-300',
-              'focus:outline-none focus:ring-4 focus:ring-blue-300',
-              soundEnabled ? 'bg-green-500' : 'bg-gray-300'
-            ]"
-            style="width: 56px; height: 32px; min-width: 56px; min-height: 32px"
-            role="switch"
-            :aria-checked="soundEnabled"
-            aria-label="Toggle sound effects"
-          >
-            <!-- Toggle Circle -->
-            <span
-              :class="[
-                'inline-block w-6 h-6 transform rounded-full bg-white shadow-lg transition-transform duration-300',
-                soundEnabled ? 'translate-x-6' : 'translate-x-1'
-              ]"
-            ></span>
-          </button>
-        </div>
-        
-        <!-- Sound Status Indicator -->
-        <div v-if="soundEnabled" class="mt-4 flex items-center gap-2 text-green-600 text-sm font-medium">
-          <i class="fas fa-check-circle"></i>
-          <span>Sound effects are enabled</span>
-        </div>
-        <div v-else class="mt-4 flex items-center gap-2 text-gray-500 text-sm font-medium">
-          <i class="fas fa-volume-mute"></i>
-          <span>Sound effects are muted</span>
-        </div>
-      </div>
+      
       
       <!-- ===== SECTION 2: Difficulty Preferences ===== -->
       <!--
@@ -338,7 +283,7 @@
         <!-- Credits -->
         <div class="border-t border-gray-200 pt-4">
           <p class="text-sm text-gray-600 text-center">
-            Built with ❤️ by <strong>Edward Kwame Appiah-Poku</strong> for Ghana
+            Built with ❤️ by <strong>Edward Kwame Appiah-Poku</strong>
           </p>
           <p class="text-xs text-gray-500 text-center mt-2">
             © 2025 StudyDock. All rights reserved.
@@ -497,14 +442,6 @@ function saveSettings(): void {
 
 // ===== Setting Toggle Functions =====
 
-/**
- * Toggle sound effects on/off
- * Saves setting immediately
- */
-function toggleSoundEffects(): void {
-  soundEnabled.value = !soundEnabled.value
-  saveSettings()
-}
 
 /**
  * Select difficulty level
