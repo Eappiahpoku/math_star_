@@ -1,0 +1,39 @@
+{
+  "topicId": "addition",
+  "topicTitle": "Addition",
+  "slides": [
+    {
+      "title": "Welcome to Addition! 🎯",
+      "content": "<p>Addition is one of the four basic operations in mathematics. It's the process of <strong>combining two or more numbers</strong> to find their total.</p><p>In this lesson, you'll learn:</p><ul><li>What addition means</li><li>How to add single-digit numbers</li><li>How to add larger numbers</li><li>Tips and tricks for quick addition</li></ul>",
+      "tip": "Addition is everywhere in daily life - counting money, measuring ingredients, and keeping score in games!"
+    },
+    {
+      "title": "What is Addition?",
+      "content": "<p>Addition means <strong>putting things together</strong>. When you add, you combine groups to find out how many you have in total.</p><p>The symbol for addition is the <strong>plus sign (+)</strong>.</p><p>The answer you get when you add is called the <strong>sum</strong>.</p>",
+      "example": "<p><strong>Example:</strong></p><p>If you have <strong>3 apples</strong> and someone gives you <strong>2 more apples</strong>, how many apples do you have now?</p><p>3 + 2 = <strong>5 apples</strong></p><p>Here, 3 and 2 are called <strong>addends</strong>, and 5 is the <strong>sum</strong>.</p>"
+    },
+    {
+      "title": "Adding Single-Digit Numbers",
+      "content": "<p>Let's start with the basics - adding numbers from 0 to 9.</p><p><strong>Key Points:</strong></p><ul><li>Start with the smaller number and count up</li><li>You can use your fingers to help count</li><li>The order doesn't matter: 3 + 5 = 5 + 3</li></ul>",
+      "example": "<p><strong>Practice Examples:</strong></p><ul><li>4 + 3 = ?</li><li>7 + 2 = ?</li><li>5 + 5 = ?</li></ul><p><strong>Answers:</strong> 7, 9, 10</p>",
+      "tip": "Try to memorize addition facts up to 10 + 10. This will make math faster and easier!"
+    },
+    {
+      "title": "Adding Two-Digit Numbers",
+      "content": "<p>When adding larger numbers, we add the <strong>ones place first</strong>, then the <strong>tens place</strong>.</p><p><strong>Steps:</strong></p><ol><li>Write the numbers one below the other</li><li>Add the ones column (right side)</li><li>Add the tens column (left side)</li><li>If the ones add up to 10 or more, carry over to the tens</li></ol>",
+      "example": "<p><strong>Example: 23 + 45</strong></p><pre>  23\n+ 45\n----\n</pre><p><strong>Step 1:</strong> Add ones: 3 + 5 = 8</p><p><strong>Step 2:</strong> Add tens: 2 + 4 = 6</p><p><strong>Answer:</strong> 68</p>"
+    },
+    {
+      "title": "Addition with Carrying (Regrouping)",
+      "content": "<p>Sometimes when you add the ones column, the sum is <strong>10 or more</strong>. When this happens, we <strong>carry</strong> the extra ten to the next column.</p><p><strong>Steps:</strong></p><ol><li>Add the ones column</li><li>If the sum is 10 or more, write the ones digit and carry the tens digit</li><li>Add the tens column including the carried number</li></ol>",
+      "example": "<p><strong>Example: 37 + 28</strong></p><pre>  ¹37\n+ 28\n----\n  65\n</pre><p><strong>Step 1:</strong> 7 + 8 = 15 (write 5, carry 1)</p><p><strong>Step 2:</strong> 1 + 3 + 2 = 6</p><p><strong>Answer:</strong> 65</p>",
+      "tip": "When carrying, write the small '1' above the tens column to remind yourself to add it!"
+    },
+    {
+      "title": "Quick Addition Tips & Practice",
+      "content": "<p>Here are some <strong>tricks to add faster</strong>:</p><ul><li><strong>Adding 9:</strong> Add 10, then subtract 1 (e.g., 47 + 9 = 47 + 10 - 1 = 56)</li><li><strong>Adding doubles:</strong> Memorize doubles like 7 + 7 = 14</li><li><strong>Making tens:</strong> Look for pairs that make 10 (e.g., 8 + 6 + 2 = 8 + 2 + 6 = 10 + 6 = 16)</li></ul><p><strong>Now practice these problems:</strong></p><ol><li>56 + 23 = ?</li><li>48 + 35 = ?</li><li>67 + 19 = ?</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>56 + 23 = 79</li><li>48 + 35 = 83</li><li>67 + 19 = 86</li></ol>",
+      "tip": "Practice a little bit every day! Addition skills improve with regular practice."
+    }
+  ]
+}

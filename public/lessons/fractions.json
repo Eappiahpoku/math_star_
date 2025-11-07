@@ -1,0 +1,52 @@
+{
+  "topicId": "fractions",
+  "topicTitle": "Fractions",
+  "slides": [
+    {
+      "title": "Welcome to Fractions! 🍕",
+      "content": "<p>Fractions represent <strong>parts of a whole</strong>. When you share a pizza with friends, you're using fractions!</p><p>In this lesson, you'll learn:</p><ul><li>What fractions are and how to read them</li><li>Types of fractions (proper, improper, mixed)</li><li>How to add and subtract fractions</li><li>How to multiply and divide fractions</li><li>Comparing and simplifying fractions</li></ul>",
+      "tip": "Think of fractions as pieces of a whole - like slices of a pizza or pieces of a chocolate bar!"
+    },
+    {
+      "title": "What is a Fraction?",
+      "content": "<p>A fraction shows <strong>part of a whole</strong>. It has two numbers separated by a line:</p><p><strong>Parts of a fraction:</strong></p><ul><li><strong>Numerator</strong> (top number): How many parts you have</li><li><strong>Denominator</strong> (bottom number): How many equal parts the whole is divided into</li><li><strong>Fraction bar:</strong> The line between them (means \"divided by\")</li></ul><p>We write fractions like this: <strong>3/4</strong> or <strong>³⁄₄</strong></p><p>We read it as: \"three-fourths\" or \"three over four\"</p>",
+      "example": "<p><strong>Example:</strong></p><p>If you cut a pizza into <strong>8 equal slices</strong> and eat <strong>3 slices</strong>:</p><p>You ate <strong>3/8</strong> (three-eighths) of the pizza</p><p>There are <strong>5/8</strong> (five-eighths) left</p><ul><li>Numerator: 3 (slices eaten)</li><li>Denominator: 8 (total slices)</li></ul>"
+    },
+    {
+      "title": "Types of Fractions",
+      "content": "<p>There are three main types of fractions:</p><p><strong>1. Proper Fractions:</strong> Numerator < Denominator</p><ul><li>Examples: 1/2, 3/4, 5/8</li><li>These are less than 1 whole</li></ul><p><strong>2. Improper Fractions:</strong> Numerator ≥ Denominator</p><ul><li>Examples: 5/4, 7/3, 9/2</li><li>These are equal to or greater than 1 whole</li></ul><p><strong>3. Mixed Numbers:</strong> Whole number + Proper fraction</p><ul><li>Examples: 1½, 2¾, 3⅔</li><li>Another way to write improper fractions</li></ul>",
+      "example": "<p><strong>Converting between types:</strong></p><p><strong>Improper to Mixed:</strong> 11/4 = 2¾</p><ul><li>Divide: 11 ÷ 4 = 2 remainder 3</li><li>Whole number: 2, Fraction: 3/4</li></ul><p><strong>Mixed to Improper:</strong> 3½ = 7/2</p><ul><li>Multiply: (3 × 2) + 1 = 7</li><li>Keep denominator: 2</li></ul>",
+      "tip": "Mixed numbers are easier to understand, but improper fractions are easier to calculate with!"
+    },
+    {
+      "title": "Equivalent Fractions",
+      "content": "<p><strong>Equivalent fractions</strong> are different fractions that represent the same amount.</p><p><strong>How to find equivalent fractions:</strong></p><ul><li><strong>Multiply</strong> both numerator and denominator by the same number</li><li><strong>Divide</strong> both numerator and denominator by the same number</li></ul><p><strong>Example: 1/2 is equivalent to:</strong></p><ul><li>2/4 (multiply by 2)</li><li>3/6 (multiply by 3)</li><li>4/8 (multiply by 4)</li><li>5/10 (multiply by 5)</li></ul>",
+      "example": "<p><strong>Finding equivalents:</strong></p><p><strong>1/3 = ?/12</strong></p><ul><li>3 × 4 = 12</li><li>So multiply numerator by 4: 1 × 4 = 4</li><li>Answer: <strong>4/12</strong></li></ul><p><strong>6/8 simplified:</strong></p><ul><li>Both divisible by 2: 6÷2 = 3, 8÷2 = 4</li><li>Answer: <strong>3/4</strong></li></ul>",
+      "tip": "Always simplify your answer to the smallest equivalent fraction (lowest terms)!"
+    },
+    {
+      "title": "Adding & Subtracting Fractions (Same Denominator)",
+      "content": "<p>When fractions have the <strong>same denominator</strong>, addition and subtraction are easy!</p><p><strong>Steps:</strong></p><ol><li>Keep the denominator the same</li><li>Add or subtract the numerators</li><li>Simplify if possible</li></ol><p><strong>Why it works:</strong> You're just counting pieces of the same size!</p>",
+      "example": "<p><strong>Addition Example:</strong></p><p>2/7 + 3/7 = ?</p><ul><li>Keep denominator: 7</li><li>Add numerators: 2 + 3 = 5</li><li>Answer: <strong>5/7</strong></li></ul><p><strong>Subtraction Example:</strong></p><p>5/8 - 2/8 = ?</p><ul><li>Keep denominator: 8</li><li>Subtract numerators: 5 - 2 = 3</li><li>Answer: <strong>3/8</strong></li></ul>",
+      "tip": "Think of it like pizza slices - if the slices are the same size, you can just count them!"
+    },
+    {
+      "title": "Adding & Subtracting Fractions (Different Denominators)",
+      "content": "<p>When denominators are different, we need to find a <strong>common denominator</strong> first!</p><p><strong>Steps:</strong></p><ol><li>Find the Least Common Multiple (LCM) of the denominators</li><li>Convert both fractions to equivalent fractions with the common denominator</li><li>Add or subtract the numerators</li><li>Simplify if possible</li></ol>",
+      "example": "<p><strong>Example: 1/3 + 1/4</strong></p><p><strong>Step 1:</strong> LCM of 3 and 4 = 12</p><p><strong>Step 2:</strong> Convert to common denominator</p><ul><li>1/3 = 4/12 (multiply by 4)</li><li>1/4 = 3/12 (multiply by 3)</li></ul><p><strong>Step 3:</strong> Add numerators</p><ul><li>4/12 + 3/12 = 7/12</li></ul><p><strong>Answer: 7/12</strong></p>",
+      "tip": "The easiest common denominator is often just multiplying the two denominators together!"
+    },
+    {
+      "title": "Multiplying Fractions",
+      "content": "<p>Multiplying fractions is actually <strong>easier</strong> than adding them!</p><p><strong>Steps:</strong></p><ol><li>Multiply the numerators together</li><li>Multiply the denominators together</li><li>Simplify the result</li></ol><p><strong>Remember:</strong> You DON'T need a common denominator for multiplication!</p>",
+      "example": "<p><strong>Example: 2/3 × 3/5</strong></p><p><strong>Step 1:</strong> Multiply numerators</p><ul><li>2 × 3 = 6</li></ul><p><strong>Step 2:</strong> Multiply denominators</p><ul><li>3 × 5 = 15</li></ul><p><strong>Step 3:</strong> Result = 6/15</p><p><strong>Step 4:</strong> Simplify (divide by 3)</p><ul><li>6÷3 = 2, 15÷3 = 5</li></ul><p><strong>Answer: 2/5</strong></p>",
+      "tip": "Look for numbers you can simplify BEFORE multiplying - it makes the math easier!"
+    },
+    {
+      "title": "Practice & Real-World Applications",
+      "content": "<p>Fractions are everywhere in real life! Here are some examples:</p><ul><li><strong>Cooking:</strong> Recipes use fractions (½ cup, ¼ teaspoon)</li><li><strong>Time:</strong> ¼ hour = 15 minutes, ½ hour = 30 minutes</li><li><strong>Money:</strong> ½ of GH₵10 = GH₵5</li><li><strong>Measurements:</strong> ¾ meter, ⅝ inch</li></ul><p><strong>Practice Problems:</strong></p><ol><li>3/8 + 2/8 = ?</li><li>5/6 - 1/6 = ?</li><li>1/2 + 1/3 = ?</li><li>2/3 × 3/4 = ?</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>5/8</li><li>4/6 = 2/3 (simplified)</li><li>5/6 (common denominator: 6)</li><li>6/12 = 1/2 (simplified)</li></ol>",
+      "tip": "Practice fractions with everyday activities - cooking, shopping, and telling time!"
+    }
+  ]
+}

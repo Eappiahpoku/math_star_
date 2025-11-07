@@ -1,0 +1,44 @@
+{
+  "topicId": "division",
+  "topicTitle": "Division",
+  "slides": [
+    {
+      "title": "Welcome to Division! ➗",
+      "content": "<p>Division is the process of <strong>splitting a number into equal parts</strong>. It's the opposite of multiplication!</p><p>In this lesson, you'll learn:</p><ul><li>What division means</li><li>How to divide numbers evenly</li><li>What remainders are</li><li>Long division technique</li></ul>",
+      "tip": "Division is useful for sharing things equally, like splitting candy among friends!"
+    },
+    {
+      "title": "What is Division?",
+      "content": "<p>Division means <strong>separating into equal groups</strong> or finding out how many times one number fits into another.</p><p>The symbol for division is <strong>÷ or /</strong></p><p>The answer you get when you divide is called the <strong>quotient</strong>.</p><p><strong>Parts of division:</strong></p><ul><li><strong>Dividend:</strong> The number being divided</li><li><strong>Divisor:</strong> The number you're dividing by</li><li><strong>Quotient:</strong> The answer</li><li><strong>Remainder:</strong> What's left over (if any)</li></ul>",
+      "example": "<p><strong>Example:</strong></p><p>If you have <strong>12 cookies</strong> and want to share them equally among <strong>3 friends</strong>, how many cookies does each friend get?</p><p>12 ÷ 3 = <strong>4 cookies</strong> each</p><p>Here, 12 is the dividend, 3 is the divisor, and 4 is the quotient.</p>"
+    },
+    {
+      "title": "Division as Opposite of Multiplication",
+      "content": "<p>Division and multiplication are <strong>opposite operations</strong>. If you know your times tables, you already know division!</p><p><strong>How they're related:</strong></p><ul><li>If 4 × 5 = 20, then 20 ÷ 5 = 4</li><li>If 7 × 3 = 21, then 21 ÷ 3 = 7</li><li>If 9 × 6 = 54, then 54 ÷ 6 = 9</li></ul><p>You can <strong>check division</strong> by multiplying the quotient by the divisor!</p>",
+      "example": "<p><strong>Practice:</strong></p><ul><li>24 ÷ 6 = ? (Think: 6 × ? = 24)</li><li>35 ÷ 7 = ? (Think: 7 × ? = 35)</li><li>48 ÷ 8 = ? (Think: 8 × ? = 48)</li></ul><p><strong>Answers:</strong> 4, 5, 6</p>",
+      "tip": "Use your multiplication tables to help with division!"
+    },
+    {
+      "title": "Division with Remainders",
+      "content": "<p>Sometimes numbers don't divide evenly. The amount <strong>left over</strong> is called the <strong>remainder</strong>.</p><p><strong>Example:</strong> 17 ÷ 5</p><ul><li>5 fits into 17 three times (5 × 3 = 15)</li><li>We have 2 left over</li><li>Answer: <strong>3 remainder 2</strong> or <strong>3 R2</strong></li></ul><p>We write it as: 17 ÷ 5 = 3 R2</p>",
+      "example": "<p><strong>More Examples:</strong></p><ul><li>22 ÷ 5 = 4 R2 (5 × 4 = 20, with 2 left)</li><li>29 ÷ 6 = 4 R5 (6 × 4 = 24, with 5 left)</li><li>37 ÷ 8 = 4 R5 (8 × 4 = 32, with 5 left)</li></ul>",
+      "tip": "The remainder must always be smaller than the divisor!"
+    },
+    {
+      "title": "Long Division (Step by Step)",
+      "content": "<p>Long division is a method for dividing large numbers. Let's divide <strong>156 ÷ 4</strong>:</p><p><strong>Steps:</strong></p><ol><li><strong>Divide:</strong> How many times does 4 go into 15? Answer: 3 times (4 × 3 = 12)</li><li><strong>Multiply:</strong> 3 × 4 = 12</li><li><strong>Subtract:</strong> 15 - 12 = 3</li><li><strong>Bring down:</strong> Bring down the 6 to make 36</li><li><strong>Repeat:</strong> 4 goes into 36 nine times (4 × 9 = 36)</li><li><strong>Answer:</strong> 39</li></ol>",
+      "example": "<pre>    39\n  ----\n4 | 156\n  - 12↓\n    ---\n     36\n   - 36\n    ---\n      0\n</pre><p>156 ÷ 4 = <strong>39</strong></p>"
+    },
+    {
+      "title": "Special Division Rules",
+      "content": "<p>Here are some <strong>important rules</strong> to remember:</p><ul><li><strong>Any number ÷ 1 = that number</strong> (e.g., 25 ÷ 1 = 25)</li><li><strong>Any number ÷ itself = 1</strong> (e.g., 8 ÷ 8 = 1)</li><li><strong>0 ÷ any number = 0</strong> (e.g., 0 ÷ 7 = 0)</li><li><strong>You CANNOT divide by 0</strong> (undefined!)</li><li><strong>Even numbers ÷ 2</strong> always have no remainder</li><li><strong>Numbers ending in 0 or 5 ÷ 5</strong> have no remainder</li></ul>",
+      "tip": "Never divide by zero - it's mathematically impossible!"
+    },
+    {
+      "title": "Practice & Review",
+      "content": "<p>Excellent work learning division! Now let's practice:</p><ol><li>45 ÷ 5 = ?</li><li>72 ÷ 8 = ?</li><li>50 ÷ 7 = ? (with remainder)</li><li>144 ÷ 12 = ?</li><li>100 ÷ 6 = ? (with remainder)</li></ol><p><strong>Remember:</strong></p><ul><li>Use multiplication to check your answers</li><li>Watch out for remainders</li><li>Practice makes perfect!</li></ul>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>9</li><li>9</li><li>7 R1</li><li>12</li><li>16 R4</li></ol>",
+      "tip": "Division gets easier with practice! Keep reviewing your multiplication tables too."
+    }
+  ]
+}

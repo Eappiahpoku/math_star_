@@ -1,0 +1,49 @@
+{
+  "topicId": "multiplication",
+  "topicTitle": "Multiplication",
+  "slides": [
+    {
+      "title": "Welcome to Multiplication! ✖️",
+      "content": "<p>Multiplication is a <strong>faster way to add</strong> the same number multiple times. Instead of adding 3 + 3 + 3 + 3, you can multiply 3 × 4!</p><p>In this lesson, you'll learn:</p><ul><li>What multiplication means</li><li>Multiplication tables (times tables)</li><li>How to multiply larger numbers</li><li>Tricks to multiply quickly</li></ul>",
+      "tip": "Learning your times tables by heart will make all math much easier!"
+    },
+    {
+      "title": "What is Multiplication?",
+      "content": "<p>Multiplication is <strong>repeated addition</strong>. It's a quick way to add the same number many times.</p><p>The symbol for multiplication is <strong>× or ·</strong></p><p>The answer you get when you multiply is called the <strong>product</strong>.</p><p><strong>Parts of multiplication:</strong></p><ul><li><strong>Factors:</strong> The numbers you multiply</li><li><strong>Product:</strong> The answer</li></ul>",
+      "example": "<p><strong>Example:</strong></p><p>If you have <strong>4 bags</strong> with <strong>6 marbles</strong> in each bag, how many marbles do you have in total?</p><p>Instead of adding 6 + 6 + 6 + 6, you multiply:</p><p>4 × 6 = <strong>24 marbles</strong></p><p>Here, 4 and 6 are factors, and 24 is the product.</p>"
+    },
+    {
+      "title": "Multiplication Tables (1-5)",
+      "content": "<p>Let's start learning the <strong>times tables</strong>. These are essential!</p><p><strong>Times Table 1-5:</strong></p><ul><li><strong>1×:</strong> 1, 2, 3, 4, 5...</li><li><strong>2×:</strong> 2, 4, 6, 8, 10...</li><li><strong>3×:</strong> 3, 6, 9, 12, 15...</li><li><strong>4×:</strong> 4, 8, 12, 16, 20...</li><li><strong>5×:</strong> 5, 10, 15, 20, 25...</li></ul>",
+      "example": "<p><strong>Practice:</strong></p><ul><li>3 × 4 = ?</li><li>5 × 6 = ?</li><li>2 × 8 = ?</li></ul><p><strong>Answers:</strong> 12, 30, 16</p>",
+      "tip": "The 5 times table is easy - the answers always end in 0 or 5!"
+    },
+    {
+      "title": "Multiplication Tables (6-10)",
+      "content": "<p>Now let's learn the <strong>higher times tables</strong>:</p><ul><li><strong>6×:</strong> 6, 12, 18, 24, 30...</li><li><strong>7×:</strong> 7, 14, 21, 28, 35...</li><li><strong>8×:</strong> 8, 16, 24, 32, 40...</li><li><strong>9×:</strong> 9, 18, 27, 36, 45...</li><li><strong>10×:</strong> 10, 20, 30, 40, 50...</li></ul>",
+      "example": "<p><strong>Practice:</strong></p><ul><li>6 × 7 = ?</li><li>8 × 5 = ?</li><li>9 × 9 = ?</li></ul><p><strong>Answers:</strong> 42, 40, 81</p>",
+      "tip": "To multiply by 10, just add a zero to the end of the number! Example: 7 × 10 = 70"
+    },
+    {
+      "title": "Tricks for the 9 Times Table",
+      "content": "<p>The <strong>9 times table</strong> has a cool pattern!</p><p><strong>Finger Trick:</strong></p><ol><li>Hold up all 10 fingers</li><li>To multiply 9 × 4, bend down the 4th finger</li><li>Count fingers before the bent finger (3) = tens</li><li>Count fingers after the bent finger (6) = ones</li><li>Answer: 36!</li></ol><p><strong>Digit Sum Trick:</strong></p><p>The digits in the answer always add up to 9:</p><ul><li>9 × 2 = 18 (1 + 8 = 9)</li><li>9 × 5 = 45 (4 + 5 = 9)</li><li>9 × 7 = 63 (6 + 3 = 9)</li></ul>",
+      "tip": "Practice the 9 times table with the finger trick until you memorize it!"
+    },
+    {
+      "title": "Multiplying Two-Digit Numbers",
+      "content": "<p>When multiplying larger numbers, we use a step-by-step method.</p><p><strong>Steps for 23 × 4:</strong></p><ol><li>Multiply the ones: 3 × 4 = 12 (write 2, carry 1)</li><li>Multiply the tens: 2 × 4 = 8, plus carried 1 = 9</li><li>Answer: 92</li></ol>",
+      "example": "<p><strong>Example: 34 × 5</strong></p><pre>   34\n×   5\n-----\n  170\n</pre><p><strong>Step 1:</strong> 4 × 5 = 20 (write 0, carry 2)</p><p><strong>Step 2:</strong> 3 × 5 = 15, plus 2 = 17</p><p><strong>Answer:</strong> 170</p>"
+    },
+    {
+      "title": "Quick Multiplication Tricks",
+      "content": "<p>Here are some <strong>shortcuts</strong> to multiply faster:</p><ul><li><strong>Multiplying by 2:</strong> Just double the number (2 × 47 = 47 + 47 = 94)</li><li><strong>Multiplying by 5:</strong> Multiply by 10, then divide by 2 (5 × 36 = 360 ÷ 2 = 180)</li><li><strong>Multiplying by 11:</strong> For two-digit numbers, add the digits and put the sum in the middle (11 × 23 = 2_3 → 2+3=5 → 253)</li><li><strong>Commutative property:</strong> 3 × 8 = 8 × 3 (order doesn't matter!)</li></ul>",
+      "tip": "If you forget a multiplication fact, you can always add! For example, 7 × 6 = (7 × 5) + 7 = 35 + 7 = 42"
+    },
+    {
+      "title": "Practice & Review",
+      "content": "<p>Great job learning multiplication! Now let's practice:</p><ol><li>6 × 8 = ?</li><li>12 × 5 = ?</li><li>9 × 7 = ?</li><li>15 × 4 = ?</li><li>25 × 3 = ?</li></ol><p><strong>Remember to:</strong></p><ul><li>Check your work by using division</li><li>Practice times tables daily</li><li>Use tricks to make it easier</li></ul>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>48</li><li>60</li><li>63</li><li>60</li><li>75</li></ol>",
+      "tip": "Multiplication is a skill that gets easier with practice. Keep practicing and you'll become a multiplication master!"
+    }
+  ]
+}

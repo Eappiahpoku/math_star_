@@ -1,0 +1,47 @@
+{
+  "topicId": "decimals",
+  "topicTitle": "Decimals",
+  "slides": [
+    {
+      "title": "Welcome to Decimals! 💰",
+      "content": "<p>Decimals are another way to write <strong>parts of a whole</strong>. Money uses decimals - GH₵5.50 means 5 cedis and 50 pesewas!</p><p>In this lesson, you'll learn:</p><ul><li>What decimals are and how to read them</li><li>Place value in decimals</li><li>Converting between fractions and decimals</li><li>Adding, subtracting, multiplying, and dividing decimals</li><li>Real-world decimal applications</li></ul>",
+      "tip": "Decimals are just another way to write fractions - think of money as an everyday example!"
+    },
+    {
+      "title": "What are Decimals?",
+      "content": "<p>A <strong>decimal</strong> is a number that has a decimal point (.) separating the whole number from the fractional part.</p><p><strong>Parts of a decimal:</strong></p><ul><li><strong>Whole number part:</strong> The digits before the decimal point</li><li><strong>Decimal point:</strong> The dot (.) that separates whole and fractional parts</li><li><strong>Decimal part:</strong> The digits after the decimal point</li></ul><p><strong>Example: 3.75</strong></p><ul><li>3 = whole number</li><li>. = decimal point</li><li>75 = decimal part (seventy-five hundredths)</li></ul>",
+      "example": "<p><strong>Reading Decimals:</strong></p><ul><li><strong>0.5</strong> = \"zero point five\" or \"five-tenths\"</li><li><strong>2.3</strong> = \"two point three\" or \"two and three-tenths\"</li><li><strong>15.75</strong> = \"fifteen point seven five\" or \"fifteen and seventy-five hundredths\"</li></ul><p><strong>Money Example:</strong></p><p>GH₵12.50 = 12 cedis and 50 pesewas</p>",
+      "tip": "The decimal point is like a fence - it separates whole numbers from parts of numbers!"
+    },
+    {
+      "title": "Decimal Place Value",
+      "content": "<p>Each position after the decimal point has a specific <strong>place value</strong>:</p><table><tr><th>Position</th><th>Place Value</th><th>Example</th></tr><tr><td>1st place</td><td>Tenths (1/10)</td><td>0.<strong>5</strong></td></tr><tr><td>2nd place</td><td>Hundredths (1/100)</td><td>0.2<strong>5</strong></td></tr><tr><td>3rd place</td><td>Thousandths (1/1000)</td><td>0.12<strong>5</strong></td></tr></table><p><strong>Example: 4.567</strong></p><ul><li>4 = ones place</li><li>5 = tenths place (5/10)</li><li>6 = hundredths place (6/100)</li><li>7 = thousandths place (7/1000)</li></ul>",
+      "example": "<p><strong>Understanding Place Value:</strong></p><p><strong>0.3</strong> = 3 tenths = 3/10</p><p><strong>0.25</strong> = 25 hundredths = 25/100</p><p><strong>0.125</strong> = 125 thousandths = 125/1000</p><p><strong>Which is bigger?</strong></p><ul><li>0.7 vs 0.07: <strong>0.7 is bigger</strong> (7 tenths > 7 hundredths)</li><li>0.5 vs 0.49: <strong>0.5 is bigger</strong> (50 hundredths > 49 hundredths)</li></ul>",
+      "tip": "Add zeros to make comparing easier: 0.7 = 0.70, so you can see 0.70 > 0.07!"
+    },
+    {
+      "title": "Converting Fractions to Decimals",
+      "content": "<p>To convert a fraction to a decimal, <strong>divide the numerator by the denominator</strong>.</p><p><strong>Steps:</strong></p><ol><li>Set up the division: numerator ÷ denominator</li><li>Add a decimal point and zeros to the numerator</li><li>Divide until you get a remainder of zero or a repeating pattern</li></ol><p><strong>Common Conversions to Memorize:</strong></p><ul><li>1/2 = 0.5</li><li>1/4 = 0.25</li><li>3/4 = 0.75</li><li>1/5 = 0.2</li><li>1/10 = 0.1</li></ul>",
+      "example": "<p><strong>Example: 3/4 to decimal</strong></p><p>3 ÷ 4 = ?</p><pre>  0.75\n4)3.00\n  -2.8\n   ---\n    20\n   -20\n   ---\n     0\n</pre><p><strong>Answer: 0.75</strong></p><p><strong>Example: 1/3 to decimal</strong></p><p>1 ÷ 3 = 0.333... (repeating)</p><p>We write it as: <strong>0.3̅</strong> or <strong>0.33</strong> (rounded)</p>",
+      "tip": "Some fractions create repeating decimals (like 1/3 = 0.333...). It's okay to round to 2 decimal places!"
+    },
+    {
+      "title": "Adding & Subtracting Decimals",
+      "content": "<p>Adding and subtracting decimals is just like whole numbers - <strong>line up the decimal points!</strong></p><p><strong>Steps:</strong></p><ol><li>Write the numbers vertically</li><li><strong>Line up the decimal points</strong></li><li>Add zeros if needed to make the same length</li><li>Add or subtract as normal</li><li>Bring the decimal point straight down</li></ol>",
+      "example": "<p><strong>Addition Example: 12.5 + 3.75</strong></p><pre>  12.50  (added zero)\n+  3.75\n-------\n  16.25\n</pre><p><strong>Subtraction Example: 8.3 - 2.45</strong></p><pre>  8.30  (added zero)\n- 2.45\n------\n  5.85\n</pre><p><strong>Money Example:</strong></p><p>GH₵15.50 + GH₵7.25 = GH₵22.75</p>",
+      "tip": "Always line up the decimal points like soldiers in a row - this prevents mistakes!"
+    },
+    {
+      "title": "Multiplying Decimals",
+      "content": "<p>Multiplying decimals has one extra step at the end!</p><p><strong>Steps:</strong></p><ol><li>Ignore the decimal points and multiply normally</li><li>Count total decimal places in both numbers</li><li>Put the decimal point in the answer with that many places</li></ol>",
+      "example": "<p><strong>Example: 2.5 × 3.2</strong></p><p><strong>Step 1:</strong> Multiply without decimals</p><pre>   25\n×  32\n-----\n   50\n  750\n-----\n  800\n</pre><p><strong>Step 2:</strong> Count decimal places</p><ul><li>2.5 has 1 decimal place</li><li>3.2 has 1 decimal place</li><li>Total: 2 decimal places</li></ul><p><strong>Step 3:</strong> Place decimal</p><p>800 → 8.00 (2 places from right)</p><p><strong>Answer: 8.0 or 8</strong></p>",
+      "tip": "Count decimal places BEFORE you start - it's easy to forget after the multiplication!"
+    },
+    {
+      "title": "Decimals in Real Life",
+      "content": "<p>Decimals are used everywhere in Ghana:</p><ul><li><strong>Money:</strong> GH₵25.50, GH₵100.75</li><li><strong>Measurements:</strong> 1.5 meters, 2.25 kilograms</li><li><strong>Fuel prices:</strong> GH₵14.50 per litre</li><li><strong>Market prices:</strong> GH₵3.75 per bunch of plantain</li><li><strong>School grades:</strong> 85.5%, 92.25%</li></ul><p><strong>Practice Problems:</strong></p><ol><li>5.2 + 3.8 = ?</li><li>10 - 4.5 = ?</li><li>2.5 × 4 = ?</li><li>Convert 3/5 to decimal</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>9.0 or 9</li><li>5.5</li><li>10.0 or 10</li><li>0.6 (3 ÷ 5)</li></ol><p><strong>Real Example:</strong></p><p>If bread costs GH₵3.50 and you buy 3 loaves:</p><p>3.50 × 3 = GH₵10.50</p>",
+      "tip": "Practice with money - it's the best way to understand decimals in real life!"
+    }
+  ]
+}

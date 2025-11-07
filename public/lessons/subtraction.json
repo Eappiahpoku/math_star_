@@ -1,0 +1,39 @@
+{
+  "topicId": "subtraction",
+  "topicTitle": "Subtraction",
+  "slides": [
+    {
+      "title": "Welcome to Subtraction! 🔢",
+      "content": "<p>Subtraction is the process of <strong>taking away</strong> one number from another. It's the opposite of addition!</p><p>In this lesson, you'll learn:</p><ul><li>What subtraction means</li><li>How to subtract single-digit numbers</li><li>How to subtract larger numbers</li><li>Borrowing (regrouping) techniques</li></ul>",
+      "tip": "Think of subtraction as finding the difference between two numbers or seeing what's left after taking some away."
+    },
+    {
+      "title": "What is Subtraction?",
+      "content": "<p>Subtraction means <strong>taking away</strong> or finding the <strong>difference</strong> between numbers.</p><p>The symbol for subtraction is the <strong>minus sign (−)</strong>.</p><p>The answer you get when you subtract is called the <strong>difference</strong>.</p><p><strong>Parts of subtraction:</strong></p><ul><li><strong>Minuend:</strong> The number you start with</li><li><strong>Subtrahend:</strong> The number you take away</li><li><strong>Difference:</strong> The answer</li></ul>",
+      "example": "<p><strong>Example:</strong></p><p>If you have <strong>8 candies</strong> and you eat <strong>3 candies</strong>, how many are left?</p><p>8 − 3 = <strong>5 candies</strong></p><p>Here, 8 is the minuend, 3 is the subtrahend, and 5 is the difference.</p>"
+    },
+    {
+      "title": "Subtracting Single-Digit Numbers",
+      "content": "<p>Let's practice basic subtraction with numbers from 0 to 9.</p><p><strong>Key Points:</strong></p><ul><li>Start with the larger number</li><li>Count backwards or use your fingers</li><li>Subtraction is NOT the same when you switch numbers: 8 − 3 ≠ 3 − 8</li><li>Any number minus itself equals zero: 5 − 5 = 0</li></ul>",
+      "example": "<p><strong>Practice Examples:</strong></p><ul><li>9 − 4 = ?</li><li>7 − 2 = ?</li><li>10 − 6 = ?</li></ul><p><strong>Answers:</strong> 5, 5, 4</p>",
+      "tip": "Think of addition to check your subtraction! If 9 − 4 = 5, then 5 + 4 should equal 9."
+    },
+    {
+      "title": "Subtracting Two-Digit Numbers (Without Borrowing)",
+      "content": "<p>When subtracting larger numbers without borrowing, subtract each column separately.</p><p><strong>Steps:</strong></p><ol><li>Write the numbers one below the other (larger number on top)</li><li>Subtract the ones column (right side)</li><li>Subtract the tens column (left side)</li></ol>",
+      "example": "<p><strong>Example: 57 − 23</strong></p><pre>  57\n− 23\n----\n  34\n</pre><p><strong>Step 1:</strong> Subtract ones: 7 − 3 = 4</p><p><strong>Step 2:</strong> Subtract tens: 5 − 2 = 3</p><p><strong>Answer:</strong> 34</p>"
+    },
+    {
+      "title": "Subtraction with Borrowing (Regrouping)",
+      "content": "<p>When the digit on top is <strong>smaller</strong> than the digit on the bottom, we need to <strong>borrow</strong> from the next column.</p><p><strong>Steps:</strong></p><ol><li>Look at the ones column</li><li>If the top digit is smaller, borrow 1 from the tens column</li><li>Add 10 to the ones column</li><li>Subtract as normal</li></ol>",
+      "example": "<p><strong>Example: 52 − 27</strong></p><pre>  ⁴5²12\n− 2 7\n-----\n  2 5\n</pre><p><strong>Step 1:</strong> Can't do 2 − 7, so borrow 1 from 5 (making it 4)</p><p><strong>Step 2:</strong> The 2 becomes 12</p><p><strong>Step 3:</strong> 12 − 7 = 5, and 4 − 2 = 2</p><p><strong>Answer:</strong> 25</p>",
+      "tip": "Remember: when you borrow, reduce the tens digit by 1 and add 10 to the ones digit!"
+    },
+    {
+      "title": "Quick Subtraction Tips & Practice",
+      "content": "<p>Here are some <strong>tricks to subtract faster</strong>:</p><ul><li><strong>Subtracting 9:</strong> Subtract 10, then add 1 (e.g., 65 − 9 = 65 − 10 + 1 = 56)</li><li><strong>Counting up:</strong> To subtract 53 − 48, count up from 48 to 53 (48...49, 50, 51, 52, 53 = 5 jumps)</li><li><strong>Use addition to check:</strong> If 76 − 42 = 34, check that 34 + 42 = 76</li></ul><p><strong>Now practice these problems:</strong></p><ol><li>89 − 34 = ?</li><li>73 − 28 = ?</li><li>100 − 47 = ?</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>89 − 34 = 55</li><li>73 − 28 = 45</li><li>100 − 47 = 53</li></ol>",
+      "tip": "Always check your work by adding the difference and subtrahend to see if you get the minuend!"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "topicId": "algebra-basics",
+  "topicTitle": "Algebra Basics",
+  "slides": [
+    {
+      "title": "Welcome to Algebra! 🔤",
+      "content": "<p>Algebra is like a <strong>mathematical puzzle</strong> where letters stand for unknown numbers. It's actually easier than it sounds!</p><p>In this lesson, you'll learn:</p><ul><li>What variables are and why we use them</li><li>How to write and read algebraic expressions</li><li>The order of operations (PEMDAS/BODMAS)</li><li>How to solve simple equations</li><li>Real-world algebra applications</li></ul>",
+      "tip": "Think of algebra as a mystery game - you're a detective finding the value of the unknown number!"
+    },
+    {
+      "title": "What is Algebra?",
+      "content": "<p>Algebra uses <strong>letters (variables)</strong> to represent numbers we don't know yet.</p><p><strong>Why use algebra?</strong></p><ul><li>To solve problems with unknown values</li><li>To write general rules that work for any number</li><li>To describe relationships between quantities</li></ul><p><strong>Common Variables:</strong></p><ul><li><strong>x, y, z</strong> - most common variables</li><li><strong>n</strong> - often used for unknown numbers</li><li><strong>a, b, c</strong> - used for known numbers (constants)</li></ul>",
+      "example": "<p><strong>Example:</strong></p><p>Instead of saying: \"I have some money and my friend gave me GH₵5, now I have GH₵15\"</p><p>Algebra says: <strong>x + 5 = 15</strong></p><ul><li>x = the money you started with</li><li>5 = money your friend gave you</li><li>15 = total money now</li></ul><p>We can solve: x = 15 - 5 = <strong>10</strong></p><p>You started with GH₵10!</p>"
+    },
+    {
+      "title": "Algebraic Expressions",
+      "content": "<p>An <strong>algebraic expression</strong> is a combination of numbers, variables, and operations (+, −, ×, ÷).</p><p><strong>Parts of an expression:</strong></p><ul><li><strong>Terms:</strong> Parts separated by + or −</li><li><strong>Coefficient:</strong> The number in front of a variable</li><li><strong>Variable:</strong> The letter representing an unknown</li><li><strong>Constant:</strong> A number by itself</li></ul><p><strong>Example: 3x + 5</strong></p><ul><li>2 terms: \"3x\" and \"5\"</li><li>Coefficient: 3</li><li>Variable: x</li><li>Constant: 5</li></ul>",
+      "example": "<p><strong>Reading Expressions:</strong></p><ul><li><strong>2x</strong> = \"two times x\" or \"two x\"</li><li><strong>x + 7</strong> = \"x plus seven\"</li><li><strong>3y - 4</strong> = \"three y minus four\"</li><li><strong>5n</strong> = \"five times n\" or \"five n\"</li></ul><p><strong>Writing Expressions:</strong></p><ul><li>\"A number plus 8\" = <strong>x + 8</strong></li><li>\"Three times a number\" = <strong>3n</strong></li><li>\"A number minus 5\" = <strong>x - 5</strong></li></ul>",
+      "tip": "When a number and variable are next to each other (like 3x), it always means multiplication!"
+    },
+    {
+      "title": "Order of Operations (BODMAS)",
+      "content": "<p>When solving expressions, follow the <strong>BODMAS</strong> rule (or PEMDAS):</p><p><strong>B</strong>rackets (Parentheses)</p><p><strong>O</strong>rders (Exponents/Powers)</p><p><strong>D</strong>ivision</p><p><strong>M</strong>ultiplication</p><p><strong>A</strong>ddition</p><p><strong>S</strong>ubtraction</p><p><strong>Important:</strong> Division and Multiplication have equal priority (left to right). Same for Addition and Subtraction.</p>",
+      "example": "<p><strong>Example: 5 + 3 × 4</strong></p><p><strong>WRONG:</strong> 5 + 3 = 8, then 8 × 4 = 32 ❌</p><p><strong>RIGHT:</strong> 3 × 4 = 12, then 5 + 12 = 17 ✓</p><p><strong>Example with Brackets: (5 + 3) × 4</strong></p><p>Step 1: Brackets first → 5 + 3 = 8</p><p>Step 2: Multiply → 8 × 4 = 32</p><p><strong>Answer: 32</strong></p><p><strong>Practice: 20 − 2 × 3 + 4</strong></p><p>2 × 3 = 6 → 20 − 6 + 4 = 18</p>",
+      "tip": "Remember: Please Excuse My Dear Aunt Sally (PEMDAS) or Brackets Orders Division Multiplication Addition Subtraction (BODMAS)!"
+    },
+    {
+      "title": "Solving Simple Equations",
+      "content": "<p>An <strong>equation</strong> is like a balanced scale - both sides are equal.</p><p><strong>Goal:</strong> Get the variable alone on one side</p><p><strong>Golden Rule:</strong> Whatever you do to one side, do to the other!</p><p><strong>Steps to solve:</strong></p><ol><li>Identify what's attached to the variable</li><li>Use opposite operations to isolate the variable</li><li>Check your answer by substituting back</li></ol><p><strong>Opposite Operations:</strong></p><ul><li>Addition ↔ Subtraction</li><li>Multiplication ↔ Division</li></ul>",
+      "example": "<p><strong>Example: x + 7 = 15</strong></p><p>Step 1: 7 is added to x</p><p>Step 2: Subtract 7 from both sides</p><p>x + 7 − 7 = 15 − 7</p><p>x = 8</p><p>Step 3: Check: 8 + 7 = 15 ✓</p><p><strong>Example: 3x = 12</strong></p><p>Step 1: x is multiplied by 3</p><p>Step 2: Divide both sides by 3</p><p>3x ÷ 3 = 12 ÷ 3</p><p>x = 4</p><p>Step 3: Check: 3 × 4 = 12 ✓</p>"
+    },
+    {
+      "title": "Two-Step Equations",
+      "content": "<p>Some equations need <strong>two steps</strong> to solve.</p><p><strong>Strategy:</strong> Work backwards using order of operations</p><p><strong>Steps:</strong></p><ol><li>First, undo addition/subtraction</li><li>Then, undo multiplication/division</li></ol><p>Think of it like <strong>unwrapping a gift</strong> - remove outer layers first!</p>",
+      "example": "<p><strong>Example: 2x + 5 = 13</strong></p><p><strong>Step 1:</strong> Subtract 5 from both sides</p><p>2x + 5 − 5 = 13 − 5</p><p>2x = 8</p><p><strong>Step 2:</strong> Divide both sides by 2</p><p>2x ÷ 2 = 8 ÷ 2</p><p>x = 4</p><p><strong>Check:</strong> 2(4) + 5 = 8 + 5 = 13 ✓</p><p><strong>Another Example: 3x − 7 = 11</strong></p><p>Step 1: Add 7 → 3x = 18</p><p>Step 2: Divide by 3 → x = 6</p>",
+      "tip": "Always undo addition/subtraction BEFORE multiplication/division!"
+    },
+    {
+      "title": "Algebra in Real Life",
+      "content": "<p>Algebra helps solve everyday problems:</p><ul><li><strong>Shopping:</strong> \"I bought 3 items at the same price and spent GH₵45. What was the price per item?\"</li><li>Equation: 3x = 45, so x = GH₵15</li></ul><ul><li><strong>Sharing:</strong> \"I have some money. After giving my sister GH₵10, I have GH₵25 left. How much did I start with?\"</li><li>Equation: x − 10 = 25, so x = GH₵35</li></ul><ul><li><strong>Travel:</strong> \"A taxi charges GH₵5 base fare plus GH₵2 per kilometer. I paid GH₵19. How far did I travel?\"</li><li>Equation: 5 + 2x = 19, so x = 7 kilometers</li></ul>",
+      "example": "<p><strong>Practice Problem:</strong></p><p>\"You save the same amount each week. After 4 weeks, you have GH₵80. How much do you save per week?\"</p><p><strong>Solution:</strong></p><p>Let x = weekly savings</p><p>4x = 80</p><p>x = 80 ÷ 4</p><p>x = GH₵20 per week</p>",
+      "tip": "When solving word problems, first translate the story into an equation!"
+    },
+    {
+      "title": "Practice & Review",
+      "content": "<p>Great work learning algebra basics! Now practice:</p><p><strong>Evaluate Expressions (if x = 5):</strong></p><ol><li>2x + 3 = ?</li><li>4x − 7 = ?</li><li>3(x + 2) = ?</li></ol><p><strong>Solve Equations:</strong></p><ol start='4'><li>x + 8 = 15</li><li>3x = 21</li><li>2x + 4 = 14</li><li>5x − 10 = 15</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>2(5) + 3 = 10 + 3 = 13</li><li>4(5) − 7 = 20 − 7 = 13</li><li>3(5 + 2) = 3(7) = 21</li><li>x = 7</li><li>x = 7</li><li>x = 5</li><li>x = 5</li></ol>",
+      "tip": "Algebra becomes easier with practice. Try making up your own word problems to solve!"
+    }
+  ]
+}

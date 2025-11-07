@@ -1,0 +1,46 @@
+{
+  "topicId": "geometry",
+  "topicTitle": "Geometry",
+  "slides": [
+    {
+      "title": "Welcome to Geometry! 📐",
+      "content": "<p>Geometry is the study of <strong>shapes, sizes, and spaces</strong>. It's all around us - in buildings, furniture, art, and nature!</p><p>In this lesson, you'll learn:</p><ul><li>Basic shapes and their properties</li><li>Types of angles</li><li>Perimeter and how to calculate it</li><li>Area and how to find it</li><li>Real-world geometry applications</li></ul>",
+      "tip": "Look around you - geometry is everywhere! From the screen you're reading on to the shape of your room."
+    },
+    {
+      "title": "Basic Shapes & Properties",
+      "content": "<p>Let's learn about common 2D (flat) shapes:</p><p><strong>Triangle</strong> - 3 sides, 3 angles</p><ul><li>All angles add up to 180°</li><li>Types: Equilateral (all sides equal), Isosceles (2 sides equal), Scalene (all sides different)</li></ul><p><strong>Quadrilaterals</strong> - 4 sides, 4 angles</p><ul><li>Square: 4 equal sides, 4 right angles</li><li>Rectangle: Opposite sides equal, 4 right angles</li><li>Parallelogram: Opposite sides parallel and equal</li><li>Trapezoid: One pair of parallel sides</li></ul><p><strong>Circle</strong> - Perfectly round</p><ul><li>Radius: Distance from center to edge</li><li>Diameter: Distance across (2 × radius)</li></ul>",
+      "example": "<p><strong>Shape Examples:</strong></p><ul><li>Triangle: Road signs, roof of a house</li><li>Square: Floor tiles, chessboard</li><li>Rectangle: Door, book, phone screen</li><li>Circle: Wheel, coin, clock face</li></ul>"
+    },
+    {
+      "title": "Understanding Angles",
+      "content": "<p>An <strong>angle</strong> is formed when two lines meet at a point.</p><p><strong>Types of Angles:</strong></p><ul><li><strong>Right Angle:</strong> Exactly 90° (like a corner of a book)</li><li><strong>Acute Angle:</strong> Less than 90° (sharp angle)</li><li><strong>Obtuse Angle:</strong> More than 90° but less than 180° (wide angle)</li><li><strong>Straight Angle:</strong> Exactly 180° (straight line)</li></ul><p><strong>Measuring Angles:</strong></p><ul><li>Use a protractor</li><li>Unit of measurement: degrees (°)</li></ul>",
+      "example": "<p><strong>Real-Life Angles:</strong></p><ul><li><strong>Right angle (90°):</strong> Corner of a wall</li><li><strong>Acute angle:</strong> Roof of a house</li><li><strong>Obtuse angle:</strong> Opened book</li><li><strong>Straight angle (180°):</strong> Flat horizon</li></ul><p><strong>Fun Fact:</strong> A full rotation is 360°!</p>",
+      "tip": "Right angles are everywhere - look for them in corners of rooms, books, and screens!"
+    },
+    {
+      "title": "What is Perimeter?",
+      "content": "<p><strong>Perimeter</strong> is the <strong>distance around</strong> a shape. Think of it as the length of fence needed to go all around a field.</p><p><strong>How to Find Perimeter:</strong></p><p>Add up the lengths of all sides!</p><p><strong>Formulas:</strong></p><ul><li><strong>Square:</strong> P = 4 × side</li><li><strong>Rectangle:</strong> P = 2 × (length + width)</li><li><strong>Triangle:</strong> P = side₁ + side₂ + side₃</li><li><strong>Any shape:</strong> Add all sides together</li></ul>",
+      "example": "<p><strong>Example: Rectangle</strong></p><p>Length = 8 meters, Width = 5 meters</p><p><strong>Method 1:</strong> Add all sides</p><p>P = 8 + 5 + 8 + 5 = 26 meters</p><p><strong>Method 2:</strong> Use formula</p><p>P = 2 × (8 + 5) = 2 × 13 = 26 meters</p><p><strong>Example: Square</strong></p><p>Side = 6 centimeters</p><p>P = 4 × 6 = 24 centimeters</p>",
+      "tip": "Perimeter is always measured in linear units: cm, m, km, inches, feet, etc."
+    },
+    {
+      "title": "What is Area?",
+      "content": "<p><strong>Area</strong> is the amount of <strong>space inside</strong> a shape. Think of it as how much paint you need to cover a surface.</p><p><strong>Area Formulas:</strong></p><ul><li><strong>Square:</strong> A = side × side (or side²)</li><li><strong>Rectangle:</strong> A = length × width</li><li><strong>Triangle:</strong> A = ½ × base × height</li><li><strong>Circle:</strong> A = π × radius² (π ≈ 3.14)</li></ul><p><strong>Important:</strong> Area is always in <strong>square units</strong> (cm², m², etc.)</p>",
+      "example": "<p><strong>Example: Rectangle</strong></p><p>Length = 10 meters, Width = 4 meters</p><p>A = 10 × 4 = 40 square meters (m²)</p><p><strong>Example: Triangle</strong></p><p>Base = 8 cm, Height = 5 cm</p><p>A = ½ × 8 × 5 = ½ × 40 = 20 cm²</p><p><strong>Example: Square</strong></p><p>Side = 7 meters</p><p>A = 7 × 7 = 49 m²</p>",
+      "tip": "Area is in SQUARE units because you're measuring a flat surface (length × width)!"
+    },
+    {
+      "title": "Perimeter vs Area",
+      "content": "<p>Don't confuse perimeter and area! They measure different things:</p><p><strong>Perimeter:</strong></p><ul><li>Distance AROUND a shape</li><li>One-dimensional (just length)</li><li>Units: cm, m, km (linear)</li><li>Think: Fence around a field</li></ul><p><strong>Area:</strong></p><ul><li>Space INSIDE a shape</li><li>Two-dimensional (length × width)</li><li>Units: cm², m², km² (square)</li><li>Think: Paint to cover a floor</li></ul>",
+      "example": "<p><strong>Example: Garden Plot</strong></p><p>Length = 12 meters, Width = 8 meters</p><p><strong>Perimeter</strong> (fence needed):</p><p>P = 2 × (12 + 8) = 40 meters of fence</p><p><strong>Area</strong> (soil to fill):</p><p>A = 12 × 8 = 96 square meters of soil</p><p><strong>Remember:</strong> Same shape, but different measurements for different purposes!</p>",
+      "tip": "Ask yourself: Am I measuring AROUND (perimeter) or INSIDE (area)?"
+    },
+    {
+      "title": "Geometry in Ghana",
+      "content": "<p>Geometry is used everywhere in daily life in Ghana:</p><ul><li><strong>Building:</strong> Calculating land area (plots), room dimensions</li><li><strong>Farming:</strong> Measuring farm land, calculating field perimeter for fencing</li><li><strong>Market:</strong> Measuring fabric (area), calculating rope length (perimeter)</li><li><strong>Sports:</strong> Football field dimensions, basketball court area</li><li><strong>Art:</strong> Kente cloth patterns, Adinkra symbols</li></ul><p><strong>Practice Problems:</strong></p><ol><li>A square room has sides of 5 meters. Find perimeter and area.</li><li>A rectangular farm is 20m × 15m. Find area.</li><li>A triangle has base 10cm and height 6cm. Find area.</li></ol>",
+      "example": "<p><strong>Answers:</strong></p><ol><li>Perimeter = 4 × 5 = 20 meters<br>Area = 5 × 5 = 25 m²</li><li>Area = 20 × 15 = 300 m²</li><li>Area = ½ × 10 × 6 = 30 cm²</li></ol><p><strong>Real Problem:</strong></p><p>A farmer wants to fence a rectangular plot 30m × 20m. How much fence is needed?</p><p>P = 2 × (30 + 20) = 100 meters of fence</p>",
+      "tip": "Practice geometry by measuring real things around you - your room, books, furniture!"
+    }
+  ]
+}
